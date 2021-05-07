@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/toshirocarta/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/toshirocarta/static/js/main.45578e96.chunk.js",
+    "main.js.map": "/toshirocarta/static/js/main.45578e96.chunk.js.map",
+    "runtime-main.js": "/toshirocarta/static/js/runtime-main.aa07f246.js",
+    "runtime-main.js.map": "/toshirocarta/static/js/runtime-main.aa07f246.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/toshirocarta/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.39775c2b.chunk.js": "/toshirocarta/static/js/2.39775c2b.chunk.js",
+    "static/js/2.39775c2b.chunk.js.map": "/toshirocarta/static/js/2.39775c2b.chunk.js.map",
+    "static/js/3.a323d244.chunk.js": "/toshirocarta/static/js/3.a323d244.chunk.js",
+    "static/js/3.a323d244.chunk.js.map": "/toshirocarta/static/js/3.a323d244.chunk.js.map",
+    "index.html": "/toshirocarta/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/toshirocarta/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/toshirocarta/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.39775c2b.chunk.js.LICENSE.txt": "/toshirocarta/static/js/2.39775c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa07f246.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.39775c2b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.45578e96.chunk.js"
+  ]
+}
